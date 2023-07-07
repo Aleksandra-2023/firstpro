@@ -1,0 +1,16 @@
+.nav {
+  grid-area: n;
+  background-color: gold;
+  padding: 20px;
+}
+.item a {
+  color: black;
+  text-decoration: none;
+}
+
+.item active {
+  color: greenyellow;
+}
+.h2 {
+  margin-top: 30px;
+}
